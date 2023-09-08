@@ -8,3 +8,9 @@ This part will also be notes:
 UNDERSTANDING COMPONENT
 1.A component is a piece of user interface
 2.
+
+
+use styleurl instead of style because it will be messy.
+
+
+CSS will not work b/w components
