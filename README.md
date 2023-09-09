@@ -14,3 +14,6 @@ use styleurl instead of style because it will be messy.
 
 
 CSS will not work b/w components
+
+
+selector can be used as html page , html attribute or css class
