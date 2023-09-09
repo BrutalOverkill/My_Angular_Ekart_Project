@@ -17,3 +17,9 @@ CSS will not work b/w components
 
 
 selector can be used as html page , html attribute or css class
+
+
+Data Binding 
+
+COmponent to view templeate
+on way binding and two way binding
