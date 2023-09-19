@@ -11,7 +11,8 @@ export class ProductListComponent {
     price: 789,
     color: 'Black',
     discount: 8.5,
-    inStock: 10
+    inStock: 10,
+    pImage : "/assests/images/Opera Snapshot_2023-09-19_122500_www.google.com.png"
   }
 
   getDiscountedPrice() {

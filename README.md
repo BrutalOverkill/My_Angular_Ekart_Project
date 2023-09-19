@@ -23,3 +23,12 @@ Data Binding
 
 COmponent to view templeate
 on way binding and two way binding
+
+code can be written into export class also
+
+
+Property Bindng is used for one way binding
+It is used to bind property  of a DOM object basically to manipulate the DOm
+
+Property binding vs attribute binding
+this can change vs this cannot change(eg data-id,aria-label,aria-hidden[attr.aria-hidden]="")
