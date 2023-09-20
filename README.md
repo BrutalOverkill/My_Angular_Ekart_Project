@@ -32,3 +32,5 @@ It is used to bind property  of a DOM object basically to manipulate the DOm
 
 Property binding vs attribute binding
 this can change vs this cannot change(eg data-id,aria-label,aria-hidden[attr.aria-hidden]="")
+
+will be continuing
